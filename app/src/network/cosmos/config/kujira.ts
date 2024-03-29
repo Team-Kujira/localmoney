@@ -28,8 +28,8 @@ export const KUJIRA_TESTNET_HUB_INFO: HubInfo = {
 export const KUJIRA_MAINNET_CONFIG: CosmosConfig = {
   chainId: 'kaiyo-1',
   chainName: 'Kujira',
-  lcdUrl: 'https://lcd-kujira.mintthemoon.xyz/',
-  rpcUrl: 'https://rpc-kujira.mintthemoon.xyz/',
+  lcdUrl: 'https://kujira-api.nodes.defiantlabs.net/',
+  rpcUrl: 'https://kujira-rpc.nodes.defiantlabs.net/',
   addressPrefix: 'kujira',
   coinDenom: 'KUJI',
   coinMinimalDenom: 'ukuji',
